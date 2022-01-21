@@ -19,7 +19,7 @@
 }
    
 }
-console.log(somaNumerosPequenos(1, 1));
+somaNumerosPequenos(10, 1);
 
 
 

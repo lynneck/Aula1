@@ -1,6 +1,6 @@
 const notas = [10, 7, 8, 5, 10]
 
-notas.pop()
+notas.pop()// remove o ultimo elemento
 
 console.log(notas)
 
